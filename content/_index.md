@@ -1,5 +1,5 @@
 ---
-title: 🪴 Vince Harkiewicz - Public Domain Second Brain
+title:🌴 Vince's Digital Garden
 enableToc: false
 ---
 
