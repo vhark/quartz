@@ -1,0 +1,6 @@
+---
+title: "second brain"
+tags:
+- #🌱
+---
+
