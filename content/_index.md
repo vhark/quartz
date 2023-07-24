@@ -1,5 +1,5 @@
 ---
-title:🌴 Vince's Digital Garden
+title: 🌴 Vince's Digital Garden
 enableToc: false
 ---
 
