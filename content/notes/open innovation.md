@@ -1,0 +1,6 @@
+---
+title: "open innovation"
+tags:
+- #🌱
+---
+

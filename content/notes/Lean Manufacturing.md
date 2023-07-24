@@ -1,0 +1,6 @@
+---
+title: "Lean Manufacturing"
+tags:
+- #🌱
+---
+
