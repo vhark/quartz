@@ -1,3 +1,5 @@
 ---
 title: "digital garden"
+tags:
+- #🌱
 ---
