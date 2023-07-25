@@ -28,5 +28,4 @@ For example if I want to do a root cause analysis on
 	1. We don't know anything better, it's the best we've got. [[Communism]] was the leading contender but has been the cause of more death than any other political movement and so is clearly flawed. 
 
 This line of question leads me strive to uncover new models of economic development unimpaired by these outdated and artificial limitations. Alternative models of innovation, development, and revenue have been rapidly pioneered since the advent of computers enabled software to be duplicated with almost no additonal resources required. This enabled the [[Open Source Software]] movement, and innovative open source business models to become a viable alternative. Once we're able to envision open source and collaborative innovation along with profitable business models we all of a sudden see companies proving these out. 
-	
 
